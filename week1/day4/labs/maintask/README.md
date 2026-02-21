@@ -1,0 +1,1 @@
+Scrum helps teams work together and finish small pieces of work one step at a time. With daily meetings and regular reviews, problems are found and fixed quickly. I think this makes it easier to release software often and keep it working well, which matches DevOps ideas. It also helps everyone on the team know what others are doing and stay on the same page.
